@@ -8,9 +8,9 @@
 
 **A new arrangement of the *Der Freischütz* fantasy, beneath a Song dynasty handscroll that unrolls as you listen, with an essay on beauty across time and aesthetics in the age of AI.**
 
-**[Listen in Chinese](https://www.theodoreoy.com/as-if-returning/)** · **[Listen in English](https://www.theodoreoy.com/as-if-returning/en/)**
+**[Listen in Chinese](https://www.theodoreoy.com/BLOG-As-If-Returning/)** · **[Listen in English](https://www.theodoreoy.com/BLOG-As-If-Returning/en/)**
 
-[![A section of the Nymph of the Luo River handscroll above the ink shadow of the recording](.github/readme/scroll.jpg)](https://www.theodoreoy.com/as-if-returning/)
+[![A section of the Nymph of the Luo River handscroll above the ink shadow of the recording](.github/readme/scroll.jpg)](https://www.theodoreoy.com/BLOG-As-If-Returning/)
 
 I began practicing this fantasy in middle school, and every time I hear it I think something different. It seems always to be leaving and always to be coming back. Cao Zhi gave that motion four characters. This work gives it a form: a melody, a painting, and an essay that keep returning to one another on a single clock.
 
